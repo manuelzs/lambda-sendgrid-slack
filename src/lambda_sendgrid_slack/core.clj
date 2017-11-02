@@ -7,7 +7,7 @@
 
 (def slack-default-api-url "https://slack.com/api")
 (def slack-default-sendgrid-username "Sendgrid")
-(def slack-default-channel "general")
+(def slack-default-channel "#general")
 (def slack-default-icon-emoji ":email:")
 
 (defn process-sg-events

@@ -1,4 +1,4 @@
-(defproject lambda-sendgrid-slack "0.1.2-SNAPSHOT"
+(defproject lambda-sendgrid-slack "0.1.2"
   :description "AWS Lambda function to send Sendgrid events to Slack"
   :url "http://github.com/manuelzs/lambda-sendgrid-slack"
   :license {:name "Eclipse Public License"
